@@ -1,0 +1,8 @@
+.usersContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.button {
+    width: 400px;
+}
